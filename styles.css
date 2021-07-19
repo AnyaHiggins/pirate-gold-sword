@@ -20,13 +20,13 @@ div#tswsidecol {
 	float: right ;
 	width: 20% ;
 	color: #000 ;
-	background-color: #fff ;
+	background-color: rgb(35, 45, 99) ;
 }
 div#tswcontent {
 	float: right ;
 	width: 80% ;
 	color: #000 ;
-	background-color: #fff ;
+	background-color: rgb(35, 45, 99) ;
 }
 @media only screen and (max-width: 629px) {
 	div#tswsidecol {
@@ -44,15 +44,15 @@ div#tswcontproper {
 }
 div#tswcontainer {
 	color: inherit ;
-	background-color: #fff ;
+	background-color: rgb(35, 45, 99) ;
 }
 div#tswsideproper, div#tswothersideproper {
 	padding-left: 5px ;
 	padding-right: 5px ;
 }
 div#tswheader {
-	color: rgb(255, 0, 0) ;
-	background-color: #fff ;
+	color: rgb(0, 247, 255) ;
+	background-color: rgb(35, 45, 99) ;
 }
 .navbar {
     list-style-type: none;
