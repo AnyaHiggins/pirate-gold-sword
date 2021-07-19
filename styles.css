@@ -51,7 +51,7 @@ div#tswsideproper, div#tswothersideproper {
 	padding-right: 5px ;
 }
 div#tswheader {
-	color: rgb(255, 0, 0) ;
+	color: rgb(55, 131, 125) ;
 	background-color: #fff ;
 }
 .navbar {
@@ -62,4 +62,7 @@ div#tswheader {
     display: block;
     text-decoration: none;
 
+}
+div#image1 {
+	width: 50%;
 }
