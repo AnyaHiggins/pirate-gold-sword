@@ -68,7 +68,13 @@ div#tswheader {
 div#image1 {
 	width: 25%;
 }
-div#image2 {
-	width: 70%;
+div#descriptiondiv {
+	margin-bottom: 25px ;
+	color: white;
 }
-	
+.movielist {
+	list-style-type: none;
+}
+.movielist li img {
+	width: 25%;
+}
