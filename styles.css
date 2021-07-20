@@ -85,10 +85,14 @@ div#descriptiondiv {
 	color: white;
 }
 .movielist {
+	float: left;
 	list-style-type: none;
 }
 .movielist li img {
+	float: left;
 	width: 25%;
+	height: 300px;
+	padding: 5px;
 }
 div#movielistdiv {
 	color:rgb(255, 255, 255) ;
