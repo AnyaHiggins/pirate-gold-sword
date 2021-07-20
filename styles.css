@@ -4,7 +4,8 @@
 */
 body {
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	color:rgb(255, 255, 255)
+	color:rgb(255, 255, 255) ;
+	background-color: rgb(35, 45, 99) ;
 }
 img {
 	max-width: 100% ;
@@ -53,8 +54,6 @@ div#tswsideproper, div#tswothersideproper {
 	padding-right: 5px ;
 }
 div#tswheader {
-	color: rgb(0, 247, 255) ;
-	background-color: rgb(35, 45, 99) ;
 	color: rgb(255, 255, 255) ;
 	background-color: rgb(35, 45, 99) ;
 }
@@ -69,6 +68,8 @@ div#tswheader {
 }
 div#image1 {
 	width: 15%;
+	float: left;
+	margin-right: 10px;
 }
 div#image2 {
 	width: 25%;
@@ -88,4 +89,13 @@ div#descriptiondiv {
 }
 .movielist li img {
 	width: 25%;
+}
+div#movielistdiv {
+	color:rgb(255, 255, 255) ;
+}
+div#footer {
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	background-color: rgb(35, 45, 99);
 }
