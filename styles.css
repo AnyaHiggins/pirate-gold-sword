@@ -70,6 +70,12 @@ div#tswheader {
 div#image1 {
 	width: 15%;
 }
+div#image2 {
+	width: 25%;
+}
+div#image4 {
+	width: 25%;
+}
 div#descriptiondiv {
 	margin-bottom: 25px ;
 	color: white;
