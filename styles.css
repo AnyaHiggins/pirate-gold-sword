@@ -58,7 +58,7 @@ div#tswheader {
 }
 .navbar {
     list-style-type: none;
-    background-color: darkslategray;
+    background-color: rgb(58, 69, 168);
 } 
 .navbar li a {
     display: block;
