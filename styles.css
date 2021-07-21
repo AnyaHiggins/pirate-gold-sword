@@ -96,7 +96,7 @@ div#descriptiondiv {
 	float: left;
 	width: 25%;
 	height: 300px;
-	padding: 5px;
+	padding-right: 15px;
 }
 div#movielistdiv {
 	color:rgb(255, 255, 255) ;
