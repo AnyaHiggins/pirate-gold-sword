@@ -64,7 +64,9 @@ div#tswheader {
 .navbar li a {
     display: block;
     text-decoration: none;
-
+}
+a:visited {
+	color: rgb(212, 179, 255)
 }
 div#image1 {
 	width: 15%;
@@ -85,8 +87,10 @@ div#descriptiondiv {
 	color: white;
 }
 .movielist {
-	float: left;
 	list-style-type: none;
+}
+.movielist li {
+	overflow: auto;
 }
 .movielist li img {
 	float: left;
